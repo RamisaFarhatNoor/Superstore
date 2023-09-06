@@ -8,8 +8,6 @@ This project involves the analysis of a store dataset using SQL and the creation
 - [SQL Analysis](#sql-analysis)
 - [Dashboard](#dashboard)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
