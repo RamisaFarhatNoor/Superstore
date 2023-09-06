@@ -32,7 +32,6 @@ To use this project:
 1. Clone the repository to your local machine.
 2. Set up the necessary database and environment for running SQL queries.
 3. Run the SQL queries provided in the project's SQL files.
-4. View and interact with the dashboard to explore the analysis results.
 
 
 
